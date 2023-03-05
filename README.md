@@ -1,5 +1,6 @@
 <hr>
-<h1>Hello, My name is Amina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+<h1>Hello, My name is Amina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
+ 
 - 👀 I am a data Analyst and Engineer.
 - 🌱 I’m currently learning AWS and Devops
 - 💞️ I’m looking to collaborate on data analytics, engineering.
