@@ -9,6 +9,9 @@
 - Languages: Python, SQL
 - Visualization: Python, Tableau, Power BI, Looker, Matplotlib etc
 - Scripting: Python, Bash, YAML
+ 
+ 
+ 
  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ameenah21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
 
 <!---
