@@ -2,9 +2,9 @@
 <h1>Hello, My name is Amina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
  
 - 👀 I am a data Analyst and Engineer.
-- 🌱 I’m currently learning AWS and Devops
+- 🌱 I’m currently learning about building data pipelines and Infrastructure and AWS
 - 💞️ I’m looking to collaborate on data analytics, engineering.
-- 📫 How to reach me @ aminatlawal21@gmail.com
+- 📫 You can reach me @ aminatlawal21@gmail.com
 - I write about data and sql stuffs at amina.hashnode.dev
 - Languages: Python, SQL
 - Visualization: Python, Tableau, Power BI, Looker, Matplotlib etc
