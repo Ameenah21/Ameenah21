@@ -3,12 +3,13 @@
 I am a data professional specializing in data engineering and data operations (DataOps). I work on leveraging data to drive actionable insights, optimizing data workflows, building robust data pipelines, and ensuring efficient and reliable data operations. <br>
 
 
+
 - ETL Development: Proficient in designing and implementing Extract, Transform, Load (ETL) processes to efficiently integrate data from various sources into data repositories.
 - Data Modeling: Experienced in developing logical and physical data models that align with business requirements, facilitating effective data analysis and reporting.
-- Programming: Proficient in languages such as Python, Java, or Scala to automate data workflows and perform data manipulation tasks.
+- Programming: Proficient in languages such as Python to automate data workflows and perform data manipulation tasks.
 - Data Pipeline Orchestration: Experienced in orchestrating end-to-end data pipelines using tools like Apache Airflow or similar workflow management platforms.
 - DevOps Collaboration: Experienced in collaborating with DevOps teams to implement best practices for data infrastructure and ensuring efficient deployment and operations.
-- Languages: Python, SQL
+- Cloud Platforms: deploying and managing data solutions on the Cloud, including services like Google Cloud Storage, Amazon S3, EC2, Glue, Redshift, Big Query, Athena, and EMR for data processing and analytics.
 - Visualization: Python, Tableau, Power BI, Looker.
 - Scripting: Python, Bash, YAML
 -  I am interested in data engineering, DataOps, and collaborative opportunities in the exciting world of data.
