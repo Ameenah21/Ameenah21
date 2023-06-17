@@ -1,14 +1,17 @@
 <hr>
 <h1>Hello, My name is Amina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
- 
-- 👀 I am a data Analyst and Engineer.
-- 🌱 I’m currently learning about building and deploying data pipelines and Infrastructure
-- 💞️ I’m looking to collaborate on data engineering and devops.
-- 📫 You can reach me @ aminatlawal21@gmail.com
-- I write about data and sql stuffs at amina.hashnode.dev
+I am a data professional specializing in data engineering and data operations (DataOps). I work on leveraging data to drive actionable insights, optimizing data workflows, building robust data pipelines, and ensuring efficient and reliable data operations.
+
+- ETL Development: Proficient in designing and implementing Extract, Transform, Load (ETL) processes to efficiently integrate data from various sources into data repositories.
+- Data Modeling: Experienced in developing logical and physical data models that align with business requirements, facilitating effective data analysis and reporting.
+- Programming: Proficient in languages such as Python, Java, or Scala to automate data workflows and perform data manipulation tasks.
+- Data Pipeline Orchestration: Experienced in orchestrating end-to-end data pipelines using tools like Apache Airflow or similar workflow management platforms.
+- DevOps Collaboration: Experienced in collaborating with DevOps teams to implement best practices for data infrastructure and ensuring efficient deployment and operations.
 - Languages: Python, SQL
 - Visualization: Python, Tableau, Power BI, Looker.
 - Scripting: Python, Bash, YAML
+-  I am interested in data engineering, DataOps, and collaborative opportunities in the exciting world of data.
+-  📫 You can reach me @ aminatlawal21@gmail.com
  
  
  
