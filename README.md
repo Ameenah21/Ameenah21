@@ -1,6 +1,6 @@
 <hr>
 <h1>Hello, My name is Amina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
-I am a data professional specializing in data engineering and data operations (DataOps). I work on leveraging data to drive actionable insights, optimizing data workflows, building robust data pipelines, and ensuring efficient and reliable data operations.
+I am a data professional specializing in data engineering and data operations (DataOps). I work on leveraging data to drive actionable insights, optimizing data workflows, building robust data pipelines, and ensuring efficient and reliable data operations. <br>
 
 
 - ETL Development: Proficient in designing and implementing Extract, Transform, Load (ETL) processes to efficiently integrate data from various sources into data repositories.
