@@ -3,6 +3,7 @@
 I am a data professional specializing in data engineering and data operations (DataOps). I work on leveraging data to drive actionable insights, optimizing data workflows, building robust data pipelines, and ensuring efficient and reliable data operations. 
 <br />
 <br />
+
 - ETL Development: Proficient in designing and implementing Extract, Transform, Load (ETL) processes to efficiently integrate data from various sources into data repositories.
 
 - Data Modeling: Experienced in developing logical and physical data models that align with business requirements, facilitating effective data analysis and reporting.
